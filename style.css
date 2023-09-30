@@ -1,0 +1,16 @@
+ #bulb{
+height: 300px;
+width: 300px;
+outline: 2px solid #000;
+border-radius: 50%;
+
+}
+
+button{
+    margin: 10px;
+    padding: 12px;
+    background-color: aqua;
+    color: brown;
+    border-radius: 20px;
+
+} 
